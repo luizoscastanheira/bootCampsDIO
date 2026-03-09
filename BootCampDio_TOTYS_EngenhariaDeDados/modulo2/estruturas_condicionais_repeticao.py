@@ -132,12 +132,18 @@ for letra in texto:
 
 # é possivel mas não muito comum usar um else no for       
 
+
 for letra in texto:
     if letra.upper() in VOGAIS:
         print(letra, end="")
         print() # aqui foi só para quebrar linha 
 else:
     print("executei no final do laço")
+
+# Enumerar itens: Use enumerate() para obter o índice e o valor simultaneamente.
+for indice, valor in enumerate(texto):
+    print(indice, valor)
+
 
 ## Função built-in range do python é usada para produzir uma SEQUENCIA de numeros inteiros 
 # a  partir de um inicio (inclusivo) para um fim (exclusivo) 
@@ -153,3 +159,47 @@ print(list(range(5))) ## outra forma de usar
 # tabuado do 5 - note que usamos start(0), fim(51) e step(5)
 for numero in range(0, 51, 5):
     print(numero, end=" ")
+
+print()
+print()
+contador = 0
+for limao in range(1, 11):
+    print(limao)
+    contador += limao
+
+total_cura = (contador * 2) -10
+
+print(contador)
+print(total_cura)
+
+
+# Estrutura while - repete um bloco várias vezes quando não sabemos o numero exato de 
+# execuções
+
+opcao = -1
+while opcao != 0:
+    opcao = int(input("[1] De Frente \n[2] De Lado \n[0] Sair \n:"))
+    if opcao == 1:
+        print("Bontando  de Frente")
+    elif opcao == 2:
+        print("Botando de lado")
+    elif opcao == 0:
+        print("Saindo :-(")
+else:
+    print("Obrigado por usar o app")
+
+## Uso do break e do continue
+# note que se a condição é True como no exemplo abaixo, temos um loop infinito 
+# ate que uma condição de parada seja atingida
+# o continue pula uma iteração especificada enquanto o break para a execução na condição especificada
+
+while True:
+    opcao = int(input("Digite um número: "))
+
+    if opcao % 2 == 0:
+        print(f"O número {opcao} é par. Continuando")
+    else:
+        print(f"O número {opcao} é impar. Saindo")
+        break
+else:
+    print("Obrigado por usar nosso app par ou impar!")
