@@ -1,0 +1,1001 @@
+id,data_aq,cliente,produto,quantidade,valor_un,total,setor
+1,2025-11-04,Roberto Rocha Antunes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+2,2025-01-12,Lucas Ferreira Cavalcante,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+3,2025-06-19,João Pedro Lima,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+4,2026-01-19,Lucas Ferreira Antunes,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+5,2025-09-05,Lucas Ferreira Martins,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+6,2025-10-09,Ricardo Almeida Lima,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+7,2025-04-08,Ricardo Almeida Santos,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+8,2025-03-30,Carlos Silva Rocha,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+9,2025-10-28,Fernanda Oliveira Antunes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+10,2025-04-03,Ricardo Almeida Martins,Tênis Nike Air Max,1,549.9,549.9,
+11,2026-02-20,Ricardo Almeida Machado,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+12,2025-04-11,Roberto Rocha Martins,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+13,2025-06-25,Fernanda Oliveira Vitorio,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+14,2025-04-04,Fernanda Oliveira Mendes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+15,2025-08-14,Juliana Mendes Lima,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+16,2025-04-19,Lucas Ferreira Mendes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+17,2026-02-28,Roberto Rocha Vitorio,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+18,2025-03-09,Roberto Rocha Mendes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+19,2026-02-14,João Pedro Martins,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+20,2025-03-14,Ricardo Almeida Lima,Monitor Gamer AOC 24,1,950.0,950.0,
+21,2025-07-08,Roberto Rocha Machado,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+22,2025-03-19,Beatriz Souza Santos,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+23,2025-11-21,Roberto Rocha Lima,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+24,2025-02-13,Fernanda Oliveira Martins,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+25,2025-05-21,João Pedro Mendes,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+26,2025-08-24,Roberto Rocha Rocha,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+27,2025-03-25,Carlos Silva Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+28,2025-01-10,Beatriz Souza Vitorio,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+29,2025-09-16,Beatriz Souza Machado,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+30,2026-01-16,Beatriz Souza Rocha,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+31,2026-01-30,Ana Paula Santos,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+32,2026-01-29,Roberto Rocha Rocha,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+33,2025-12-25,Carlos Silva Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+34,2025-11-13,Carlos Silva Martins,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+35,2025-01-22,Mariana Costa Machado,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+36,2025-10-07,Beatriz Souza Rocha,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+37,2025-11-17,Juliana Mendes Mendes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+38,2026-02-02,Ricardo Almeida Vitorio,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+39,2025-09-07,Beatriz Souza Lima,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+40,2025-02-25,Ricardo Almeida Martins,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+41,2025-03-02,Ana Paula Lima,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+42,2025-03-22,Fernanda Oliveira Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+43,2025-05-06,Juliana Mendes Mendes,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+44,2025-11-24,Ana Paula Vitorio,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+45,2025-09-16,Roberto Rocha Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+46,2025-12-25,João Pedro Machado,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+47,2026-03-02,Beatriz Souza Lima,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+48,2025-03-28,Mariana Costa Machado,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+49,2025-12-17,Fernanda Oliveira Antunes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+50,2025-11-19,João Pedro Vitorio,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+51,2025-06-23,Ricardo Almeida Antunes,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+52,2025-03-29,João Pedro Cavalcante,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+53,2025-05-08,Mariana Costa Machado,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+54,2026-01-02,Ricardo Almeida Santos,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+55,2025-11-22,Fernanda Oliveira Martins,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+56,2025-12-23,Ricardo Almeida Antunes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+57,2026-01-15,Beatriz Souza Vitorio,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+58,2026-03-21,Fernanda Oliveira Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+59,2025-04-26,Roberto Rocha Santos,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+60,2025-07-19,Lucas Ferreira Barbosa,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+61,2026-03-06,João Pedro Machado,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+62,2025-05-23,Roberto Rocha Santos,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+63,2025-05-09,Mariana Costa Rocha,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+64,2026-02-11,Mariana Costa Santos,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+65,2025-10-17,Roberto Rocha Santos,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+66,2026-02-15,Ricardo Almeida Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+67,2025-02-23,Fernanda Oliveira Cavalcante,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+68,2025-12-28,Carlos Silva Santos,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+69,2025-05-02,João Pedro Barbosa,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+70,2025-06-05,Beatriz Souza Antunes,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+71,2025-07-09,Fernanda Oliveira Antunes,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+72,2026-01-05,João Pedro Rocha,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+73,2025-10-22,Lucas Ferreira Machado,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+74,2025-11-15,Carlos Silva Mendes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+75,2025-09-11,João Pedro Vitorio,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+76,2026-01-08,Ricardo Almeida Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+77,2025-12-26,Beatriz Souza Santos,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+78,2026-02-01,João Pedro Mendes,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+79,2025-05-14,Lucas Ferreira Lima,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+80,2026-01-26,Mariana Costa Lima,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+81,2026-01-22,Mariana Costa Santos,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+82,2025-10-04,Mariana Costa Antunes,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+83,2025-04-12,Ricardo Almeida Mendes,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+84,2025-01-27,Mariana Costa Antunes,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+85,2025-09-17,João Pedro Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+86,2025-02-08,Roberto Rocha Lima,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+87,2025-04-25,Fernanda Oliveira Martins,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+88,2025-02-26,Ricardo Almeida Vitorio,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+89,2025-02-24,Ricardo Almeida Lima,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+90,2025-05-15,Carlos Silva Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+91,2025-09-15,Carlos Silva Vitorio,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+92,2026-01-31,Juliana Mendes Barbosa,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+93,2025-11-07,Lucas Ferreira Machado,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+94,2026-02-24,Lucas Ferreira Cavalcante,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+95,2026-02-13,Beatriz Souza Machado,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+96,2025-09-26,Beatriz Souza Vitorio,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+97,2025-03-28,Lucas Ferreira Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+98,2025-09-21,Ana Paula Santos,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+99,2025-02-22,Beatriz Souza Mendes,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+100,2026-02-27,Ricardo Almeida Barbosa,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+101,2025-12-11,Juliana Mendes Cavalcante,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+102,2025-02-03,Carlos Silva Machado,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+103,2025-11-15,Beatriz Souza Lima,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+104,2025-09-12,Lucas Ferreira Vitorio,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+105,2025-06-29,Carlos Silva Mendes,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+106,2025-02-06,Lucas Ferreira Mendes,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+107,2025-07-20,Beatriz Souza Vitorio,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+108,2025-12-06,Mariana Costa Lima,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+109,2025-07-26,Fernanda Oliveira Cavalcante,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+110,2025-10-31,Fernanda Oliveira Mendes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+111,2025-03-23,João Pedro Vitorio,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+112,2025-02-18,Fernanda Oliveira Machado,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+113,2025-10-09,Fernanda Oliveira Rocha,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+114,2025-11-01,Ricardo Almeida Cavalcante,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+115,2025-06-23,João Pedro Antunes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+116,2026-02-14,Roberto Rocha Rocha,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+117,2025-08-24,Ana Paula Santos,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+118,2025-08-19,Lucas Ferreira Lima,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+119,2025-05-08,Juliana Mendes Vitorio,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+120,2025-04-26,Lucas Ferreira Vitorio,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+121,2025-06-20,Ana Paula Santos,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+122,2025-03-02,Juliana Mendes Lima,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+123,2025-12-20,João Pedro Martins,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+124,2025-02-11,Roberto Rocha Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+125,2025-10-18,Roberto Rocha Barbosa,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+126,2025-10-26,Carlos Silva Antunes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+127,2025-07-30,Beatriz Souza Mendes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+128,2026-01-21,Juliana Mendes Rocha,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+129,2025-06-07,Mariana Costa Machado,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+130,2026-02-12,Ricardo Almeida Vitorio,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+131,2025-09-05,Mariana Costa Machado,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+132,2026-03-25,Juliana Mendes Antunes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+133,2025-07-18,Roberto Rocha Lima,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+134,2026-03-08,João Pedro Martins,Tênis Nike Air Max,1,549.9,549.9,Calçados
+135,2026-01-24,Ricardo Almeida Vitorio,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+136,2025-02-02,João Pedro Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+137,2025-03-10,Roberto Rocha Lima,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+138,2025-07-09,Roberto Rocha Martins,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+139,2025-03-12,Fernanda Oliveira Vitorio,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+140,2025-11-16,Ricardo Almeida Cavalcante,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+141,2025-05-06,Roberto Rocha Rocha,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+142,2025-08-08,Carlos Silva Mendes,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+143,2026-02-06,Ana Paula Antunes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+144,2025-02-13,Lucas Ferreira Cavalcante,Tênis Nike Air Max,1,549.9,549.9,Calçados
+145,2025-09-10,Ricardo Almeida Rocha,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+146,2025-09-05,Beatriz Souza Machado,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+147,2025-01-05,Juliana Mendes Rocha,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+148,2025-04-30,João Pedro Mendes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+149,2025-02-02,Mariana Costa Cavalcante,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+150,2026-03-02,Ricardo Almeida Barbosa,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+151,2025-03-18,Lucas Ferreira Vitorio,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+152,2025-08-23,Carlos Silva Cavalcante,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+153,2025-09-12,Beatriz Souza Barbosa,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+154,2025-02-27,Roberto Rocha Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+155,2025-05-22,Beatriz Souza Barbosa,Tênis Nike Air Max,1,549.9,549.9,Calçados
+156,2026-02-14,Carlos Silva Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+157,2026-01-15,João Pedro Vitorio,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+158,2025-09-30,Ana Paula Machado,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+159,2026-02-28,Mariana Costa Rocha,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+160,2025-01-14,Roberto Rocha Lima,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+161,2026-01-12,Fernanda Oliveira Lima,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+162,2026-03-16,Carlos Silva Rocha,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+163,2025-03-09,Ricardo Almeida Cavalcante,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+164,2025-07-02,Juliana Mendes Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+165,2025-02-03,Ricardo Almeida Lima,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+166,2025-03-18,João Pedro Rocha,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+167,2026-02-14,Roberto Rocha Santos,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+168,2025-02-21,Carlos Silva Antunes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+169,2026-01-05,Roberto Rocha Antunes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+170,2025-11-08,Juliana Mendes Machado,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+171,2026-02-09,Beatriz Souza Santos,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+172,2025-01-19,Fernanda Oliveira Santos,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+173,2026-01-03,Roberto Rocha Machado,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+174,2025-04-29,Juliana Mendes Barbosa,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+175,2026-02-11,Mariana Costa Barbosa,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+176,2025-04-02,João Pedro Lima,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+177,2026-01-01,João Pedro Rocha,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+178,2026-01-21,Roberto Rocha Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+179,2026-03-03,Mariana Costa Antunes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+180,2026-03-14,Mariana Costa Barbosa,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+181,2025-04-12,João Pedro Santos,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+182,2025-05-07,Roberto Rocha Machado,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+183,2025-05-08,João Pedro Barbosa,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+184,2025-02-28,Ana Paula Barbosa,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+185,2025-11-29,Beatriz Souza Cavalcante,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+186,2026-02-07,Fernanda Oliveira Antunes,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+187,2026-02-20,Mariana Costa Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+188,2025-12-19,Lucas Ferreira Antunes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+189,2025-11-09,Ana Paula Rocha,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+190,2025-02-16,Fernanda Oliveira Cavalcante,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+191,2025-11-25,Roberto Rocha Mendes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+192,2025-01-28,Lucas Ferreira Lima,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+193,2025-05-09,Roberto Rocha Mendes,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+194,2025-11-29,Carlos Silva Cavalcante,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+195,2025-12-13,Beatriz Souza Mendes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+196,2026-02-19,Roberto Rocha Antunes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+197,2025-07-15,Lucas Ferreira Lima,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+198,2025-10-15,Juliana Mendes Santos,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+199,2025-01-17,Juliana Mendes Vitorio,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+200,2025-08-15,Carlos Silva Vitorio,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+201,2025-07-17,Juliana Mendes Martins,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+202,2025-03-29,Ricardo Almeida Rocha,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+203,2025-09-14,Beatriz Souza Barbosa,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+204,2025-06-18,Ana Paula Lima,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+205,2025-01-16,João Pedro Rocha,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+206,2025-08-29,Carlos Silva Barbosa,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+207,2025-07-11,Juliana Mendes Machado,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+208,2025-12-11,João Pedro Machado,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+209,2025-11-24,Carlos Silva Antunes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+210,2026-01-09,Ana Paula Lima,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+211,2026-01-03,Mariana Costa Antunes,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+212,2025-08-14,Carlos Silva Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+213,2025-02-25,Ricardo Almeida Santos,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+214,2025-01-09,Ana Paula Machado,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+215,2025-01-27,Lucas Ferreira Santos,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+216,2025-09-02,Carlos Silva Martins,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+217,2025-07-08,Fernanda Oliveira Rocha,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+218,2026-03-05,Ana Paula Machado,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+219,2025-03-26,Ana Paula Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+220,2025-01-02,Ana Paula Rocha,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+221,2026-02-07,Fernanda Oliveira Cavalcante,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+222,2025-05-02,Lucas Ferreira Santos,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+223,2025-11-24,Roberto Rocha Antunes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+224,2025-10-13,Ricardo Almeida Santos,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+225,2025-10-07,Fernanda Oliveira Vitorio,Mouse Logitech MX Master,1,580.0,580.0,Informática
+226,2026-02-19,Fernanda Oliveira Santos,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+227,2025-01-22,João Pedro Cavalcante,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+228,2025-09-09,Ricardo Almeida Mendes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+229,2025-04-30,Mariana Costa Mendes,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+230,2025-08-15,Lucas Ferreira Martins,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+231,2026-03-23,Beatriz Souza Mendes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+232,2025-10-31,Roberto Rocha Barbosa,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+233,2025-02-28,Juliana Mendes Santos,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+234,2026-02-02,Ana Paula Antunes,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+235,2026-03-06,Juliana Mendes Santos,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+236,2025-08-13,Ricardo Almeida Cavalcante,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+237,2026-02-09,Roberto Rocha Martins,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+238,2025-11-02,Ana Paula Barbosa,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+239,2025-02-10,Beatriz Souza Martins,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+240,2025-08-03,Mariana Costa Martins,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+241,2025-06-01,Ricardo Almeida Lima,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+242,2025-08-14,Beatriz Souza Antunes,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+243,2026-01-07,Carlos Silva Rocha,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+244,2025-11-02,Lucas Ferreira Mendes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+245,2025-03-03,Fernanda Oliveira Santos,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+246,2025-08-16,Mariana Costa Santos,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+247,2026-03-01,Fernanda Oliveira Machado,Mouse Logitech MX Master,1,580.0,580.0,Informática
+248,2025-10-26,Juliana Mendes Martins,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+249,2025-04-04,Carlos Silva Rocha,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+250,2026-01-26,Juliana Mendes Antunes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+251,2026-01-25,Ricardo Almeida Lima,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+252,2025-09-03,Beatriz Souza Mendes,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+253,2025-12-29,Mariana Costa Rocha,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+254,2025-12-30,Lucas Ferreira Barbosa,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+255,2025-07-08,João Pedro Machado,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+256,2026-01-01,Lucas Ferreira Rocha,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+257,2025-09-24,João Pedro Santos,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+258,2025-12-01,Roberto Rocha Cavalcante,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+259,2026-01-15,Carlos Silva Mendes,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+260,2025-03-04,João Pedro Martins,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+261,2025-04-29,Lucas Ferreira Antunes,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+262,2025-05-18,Beatriz Souza Mendes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+263,2025-12-25,Fernanda Oliveira Santos,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+264,2025-04-06,João Pedro Machado,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+265,2025-04-04,Beatriz Souza Antunes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+266,2025-07-09,João Pedro Santos,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+267,2025-07-01,Lucas Ferreira Antunes,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+268,2026-02-19,Carlos Silva Cavalcante,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+269,2026-03-27,Fernanda Oliveira Mendes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+270,2025-04-18,João Pedro Machado,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+271,2025-05-21,Roberto Rocha Cavalcante,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+272,2025-05-23,Fernanda Oliveira Cavalcante,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+273,2025-08-11,Beatriz Souza Santos,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+274,2025-09-30,Beatriz Souza Rocha,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+275,2025-09-26,Ricardo Almeida Lima,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+276,2026-03-09,Fernanda Oliveira Cavalcante,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+277,2026-02-01,Roberto Rocha Martins,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+278,2026-01-10,Carlos Silva Cavalcante,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+279,2025-03-02,Ana Paula Mendes,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+280,2025-07-27,Roberto Rocha Vitorio,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+281,2025-07-13,Ana Paula Santos,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+282,2025-08-15,Lucas Ferreira Santos,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+283,2025-08-12,Carlos Silva Machado,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+284,2025-04-27,Juliana Mendes Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+285,2025-09-30,Mariana Costa Machado,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+286,2025-02-10,Mariana Costa Cavalcante,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+287,2025-11-14,Fernanda Oliveira Santos,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+288,2025-10-27,João Pedro Mendes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+289,2025-10-11,Lucas Ferreira Mendes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+290,2025-12-27,Ricardo Almeida Martins,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+291,2025-10-25,Ana Paula Santos,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+292,2025-04-16,Ricardo Almeida Santos,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+293,2025-11-27,Juliana Mendes Lima,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+294,2025-04-06,Fernanda Oliveira Vitorio,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+295,2025-07-15,Mariana Costa Antunes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+296,2025-11-23,Ricardo Almeida Mendes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+297,2025-12-30,Ana Paula Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+298,2026-02-28,Ana Paula Lima,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+299,2025-04-27,Lucas Ferreira Rocha,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+300,2025-06-22,João Pedro Antunes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+301,2025-08-24,Ricardo Almeida Machado,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+302,2025-07-10,Ana Paula Cavalcante,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+303,2025-05-01,Ana Paula Barbosa,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+304,2025-02-26,Ricardo Almeida Barbosa,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+305,2025-06-29,Beatriz Souza Vitorio,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+306,2026-01-16,Juliana Mendes Mendes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+307,2025-04-14,João Pedro Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+308,2025-03-28,João Pedro Vitorio,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+309,2025-06-28,Roberto Rocha Vitorio,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+310,2026-02-04,Juliana Mendes Lima,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+311,2025-03-12,Juliana Mendes Rocha,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+312,2026-01-09,Lucas Ferreira Barbosa,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+313,2026-02-22,Ricardo Almeida Rocha,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+314,2026-03-19,Beatriz Souza Barbosa,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+315,2025-11-20,Ana Paula Mendes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+316,2026-01-03,Roberto Rocha Vitorio,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+317,2026-03-21,Roberto Rocha Barbosa,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+318,2025-06-28,Roberto Rocha Antunes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+319,2025-04-27,Mariana Costa Machado,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+320,2025-01-09,Ana Paula Rocha,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+321,2025-05-04,Carlos Silva Santos,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+322,2025-06-14,Roberto Rocha Martins,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+323,2025-09-12,Roberto Rocha Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+324,2025-09-08,Roberto Rocha Machado,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+325,2025-04-17,Ana Paula Antunes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+326,2025-10-18,Beatriz Souza Machado,Mouse Logitech MX Master,1,580.0,580.0,Informática
+327,2026-03-02,Roberto Rocha Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+328,2025-12-26,Carlos Silva Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+329,2025-01-02,Juliana Mendes Santos,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+330,2025-02-28,Beatriz Souza Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+331,2025-06-13,Roberto Rocha Machado,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+332,2025-02-02,Mariana Costa Martins,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+333,2025-07-16,Beatriz Souza Martins,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+334,2025-03-19,Fernanda Oliveira Lima,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+335,2025-07-21,Lucas Ferreira Lima,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+336,2025-09-29,Carlos Silva Santos,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+337,2025-06-27,Juliana Mendes Machado,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+338,2026-02-22,Fernanda Oliveira Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+339,2025-12-23,João Pedro Barbosa,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+340,2025-07-25,Lucas Ferreira Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+341,2025-11-13,Ricardo Almeida Rocha,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+342,2025-01-25,Beatriz Souza Barbosa,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+343,2025-11-01,Ana Paula Mendes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+344,2026-02-07,Mariana Costa Lima,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+345,2026-01-21,Roberto Rocha Martins,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+346,2025-12-08,Ricardo Almeida Mendes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+347,2025-02-04,Ricardo Almeida Vitorio,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+348,2025-06-28,Beatriz Souza Vitorio,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+349,2025-04-12,Carlos Silva Rocha,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+350,2026-02-06,Roberto Rocha Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+351,2025-11-28,Roberto Rocha Machado,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+352,2025-12-17,Mariana Costa Martins,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+353,2026-03-17,Roberto Rocha Antunes,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+354,2025-08-29,Juliana Mendes Antunes,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+355,2025-12-25,Ana Paula Vitorio,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+356,2025-06-01,João Pedro Antunes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+357,2025-03-18,João Pedro Mendes,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+358,2026-02-09,Roberto Rocha Martins,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+359,2025-08-09,Mariana Costa Rocha,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+360,2025-02-27,Ana Paula Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+361,2025-10-18,Carlos Silva Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+362,2025-05-05,Beatriz Souza Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+363,2025-06-04,Mariana Costa Mendes,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+364,2025-04-01,Ana Paula Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+365,2025-06-02,Roberto Rocha Rocha,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+366,2025-10-25,Fernanda Oliveira Lima,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+367,2025-09-07,Mariana Costa Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+368,2025-05-23,Ana Paula Antunes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+369,2025-09-30,João Pedro Cavalcante,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+370,2025-12-05,Ana Paula Barbosa,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+371,2026-01-15,Ana Paula Lima,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+372,2025-10-30,João Pedro Barbosa,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+373,2025-11-16,Lucas Ferreira Santos,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+374,2025-11-07,Roberto Rocha Martins,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+375,2026-03-21,Beatriz Souza Mendes,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+376,2025-08-27,Ricardo Almeida Machado,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+377,2026-03-15,Ricardo Almeida Barbosa,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+378,2026-01-20,Carlos Silva Martins,Tênis Nike Air Max,1,549.9,549.9,Calçados
+379,2025-05-06,Ana Paula Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+380,2025-07-12,Mariana Costa Vitorio,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+381,2026-02-06,João Pedro Vitorio,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+382,2025-06-21,Roberto Rocha Martins,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+383,2025-03-04,Fernanda Oliveira Antunes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+384,2025-04-05,Fernanda Oliveira Vitorio,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+385,2025-09-04,Lucas Ferreira Antunes,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+386,2025-03-30,Fernanda Oliveira Antunes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+387,2025-12-25,Roberto Rocha Cavalcante,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+388,2026-01-28,Mariana Costa Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+389,2025-03-01,Ricardo Almeida Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+390,2026-01-05,Roberto Rocha Antunes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+391,2025-12-11,Fernanda Oliveira Vitorio,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+392,2025-03-28,Fernanda Oliveira Lima,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+393,2025-10-18,Lucas Ferreira Rocha,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+394,2025-01-08,Lucas Ferreira Cavalcante,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+395,2026-03-24,Carlos Silva Rocha,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+396,2025-01-17,Roberto Rocha Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+397,2025-07-09,Mariana Costa Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+398,2025-09-18,Fernanda Oliveira Martins,Tênis Nike Air Max,1,549.9,549.9,Calçados
+399,2025-01-17,Carlos Silva Mendes,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+400,2025-07-30,Carlos Silva Lima,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+401,2026-02-04,Juliana Mendes Rocha,Tênis Nike Air Max,1,549.9,549.9,Calçados
+402,2026-02-27,Beatriz Souza Antunes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+403,2025-12-30,Ana Paula Vitorio,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+404,2025-07-16,Juliana Mendes Machado,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+405,2026-02-16,Beatriz Souza Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+406,2026-01-06,Ana Paula Barbosa,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+407,2026-03-06,Lucas Ferreira Rocha,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+408,2025-12-05,Lucas Ferreira Antunes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+409,2025-05-28,Ana Paula Rocha,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+410,2025-01-08,Carlos Silva Antunes,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+411,2025-07-01,Ana Paula Machado,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+412,2025-02-17,Carlos Silva Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+413,2026-01-09,Fernanda Oliveira Rocha,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+414,2026-02-07,Carlos Silva Mendes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+415,2026-01-17,Beatriz Souza Mendes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+416,2025-11-30,Fernanda Oliveira Cavalcante,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+417,2025-12-30,Carlos Silva Cavalcante,Mouse Logitech MX Master,1,580.0,580.0,Informática
+418,2025-01-19,Carlos Silva Martins,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+419,2025-01-28,Lucas Ferreira Santos,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+420,2026-02-11,Juliana Mendes Cavalcante,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+421,2026-01-16,Ricardo Almeida Santos,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+422,2025-09-01,Ana Paula Barbosa,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+423,2025-06-11,Fernanda Oliveira Barbosa,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+424,2025-06-10,Ricardo Almeida Cavalcante,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+425,2025-05-18,Beatriz Souza Santos,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+426,2026-02-13,Ana Paula Lima,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+427,2026-03-21,Roberto Rocha Vitorio,Mouse Logitech MX Master,1,580.0,580.0,Informática
+428,2025-05-01,Fernanda Oliveira Barbosa,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+429,2026-01-10,Ana Paula Lima,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+430,2025-12-05,Fernanda Oliveira Cavalcante,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+431,2025-08-29,Lucas Ferreira Santos,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+432,2025-01-11,Ana Paula Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+433,2025-02-05,Roberto Rocha Machado,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+434,2025-02-18,Lucas Ferreira Martins,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+435,2025-06-01,João Pedro Rocha,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+436,2025-07-18,Lucas Ferreira Lima,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+437,2025-12-06,Fernanda Oliveira Martins,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+438,2025-04-01,Fernanda Oliveira Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+439,2025-07-16,Mariana Costa Lima,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+440,2025-02-18,Ana Paula Barbosa,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+441,2025-08-23,Roberto Rocha Rocha,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+442,2025-06-28,Juliana Mendes Machado,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+443,2025-11-08,Ricardo Almeida Vitorio,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+444,2025-12-29,Fernanda Oliveira Barbosa,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+445,2025-10-23,Ricardo Almeida Rocha,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+446,2025-03-13,Ana Paula Rocha,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+447,2025-06-30,Mariana Costa Antunes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+448,2025-03-31,Ana Paula Vitorio,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+449,2025-01-21,Carlos Silva Mendes,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+450,2025-03-09,Ricardo Almeida Mendes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+451,2025-02-10,Lucas Ferreira Rocha,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+452,2025-01-12,Beatriz Souza Antunes,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+453,2025-11-27,Lucas Ferreira Rocha,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+454,2025-05-27,Mariana Costa Santos,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+455,2025-11-14,João Pedro Martins,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+456,2025-03-17,Mariana Costa Antunes,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+457,2026-01-10,Roberto Rocha Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+458,2025-02-12,Carlos Silva Rocha,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+459,2025-10-24,Roberto Rocha Santos,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+460,2025-06-25,Ana Paula Machado,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+461,2025-11-22,João Pedro Martins,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+462,2026-01-06,João Pedro Vitorio,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+463,2026-01-16,Juliana Mendes Rocha,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+464,2025-04-13,Fernanda Oliveira Vitorio,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+465,2025-11-30,Fernanda Oliveira Vitorio,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+466,2025-10-18,Beatriz Souza Machado,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+467,2025-12-14,Ana Paula Cavalcante,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+468,2025-09-15,Ricardo Almeida Martins,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+469,2025-12-25,Ricardo Almeida Vitorio,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+470,2025-12-04,Ricardo Almeida Antunes,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+471,2026-03-21,Ana Paula Santos,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+472,2025-08-29,Roberto Rocha Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+473,2026-01-05,Fernanda Oliveira Vitorio,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+474,2025-06-29,Beatriz Souza Antunes,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+475,2025-05-01,João Pedro Antunes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+476,2025-09-11,João Pedro Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+477,2025-05-19,João Pedro Cavalcante,Mouse Logitech MX Master,1,580.0,580.0,Informática
+478,2025-05-20,Juliana Mendes Martins,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+479,2025-03-20,Mariana Costa Barbosa,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+480,2026-03-14,Ana Paula Martins,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+481,2025-05-30,João Pedro Martins,Mouse Logitech MX Master,1,580.0,580.0,Informática
+482,2026-02-22,Beatriz Souza Barbosa,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+483,2026-03-15,João Pedro Antunes,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+484,2025-10-29,Lucas Ferreira Mendes,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+485,2025-05-31,Roberto Rocha Machado,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+486,2025-05-15,Ricardo Almeida Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+487,2025-12-28,Fernanda Oliveira Vitorio,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+488,2025-07-27,Carlos Silva Mendes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+489,2025-11-29,Mariana Costa Vitorio,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+490,2025-05-01,Carlos Silva Antunes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+491,2025-07-14,Lucas Ferreira Santos,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+492,2025-08-18,Beatriz Souza Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+493,2026-02-10,Juliana Mendes Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+494,2025-01-04,Juliana Mendes Barbosa,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+495,2025-01-21,Carlos Silva Mendes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+496,2025-11-05,Mariana Costa Cavalcante,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+497,2026-01-17,Fernanda Oliveira Cavalcante,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+498,2025-08-13,João Pedro Santos,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+499,2026-03-05,Mariana Costa Antunes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+500,2025-04-17,Ana Paula Rocha,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+501,2025-02-26,Beatriz Souza Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+502,2026-03-20,Roberto Rocha Santos,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+503,2026-03-17,Carlos Silva Martins,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+504,2025-07-19,Juliana Mendes Martins,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+505,2025-07-21,Fernanda Oliveira Santos,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+506,2025-03-13,João Pedro Machado,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+507,2025-05-04,Ana Paula Martins,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+508,2025-12-09,Lucas Ferreira Lima,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+509,2025-02-16,Juliana Mendes Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+510,2025-11-15,Fernanda Oliveira Barbosa,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+511,2025-01-22,Ricardo Almeida Cavalcante,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+512,2025-03-31,João Pedro Antunes,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+513,2025-07-21,Juliana Mendes Santos,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+514,2025-03-22,Beatriz Souza Barbosa,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+515,2025-05-31,Fernanda Oliveira Rocha,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+516,2025-04-22,Ana Paula Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+517,2025-10-03,Ricardo Almeida Barbosa,Tênis Nike Air Max,1,549.9,549.9,Calçados
+518,2025-09-06,Juliana Mendes Lima,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+519,2025-12-03,Fernanda Oliveira Antunes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+520,2025-04-08,Roberto Rocha Martins,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+521,2025-08-06,Lucas Ferreira Mendes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+522,2025-08-03,Ricardo Almeida Vitorio,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+523,2025-06-06,Roberto Rocha Santos,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+524,2026-03-17,Ricardo Almeida Antunes,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+525,2026-02-02,Mariana Costa Machado,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+526,2026-02-03,Ricardo Almeida Martins,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+527,2025-12-21,Mariana Costa Mendes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+528,2025-07-20,Roberto Rocha Martins,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+529,2025-11-20,Mariana Costa Machado,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+530,2025-02-27,Mariana Costa Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+531,2025-12-28,Lucas Ferreira Vitorio,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+532,2025-06-29,Carlos Silva Barbosa,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+533,2025-10-19,Lucas Ferreira Santos,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+534,2025-09-26,Ana Paula Santos,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+535,2025-01-13,Carlos Silva Rocha,Mouse Logitech MX Master,1,580.0,580.0,Informática
+536,2025-12-09,Beatriz Souza Santos,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+537,2025-06-16,Fernanda Oliveira Rocha,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+538,2025-09-28,Lucas Ferreira Machado,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+539,2025-05-31,Fernanda Oliveira Vitorio,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+540,2025-01-15,Beatriz Souza Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+541,2025-06-04,Fernanda Oliveira Antunes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+542,2025-07-22,Carlos Silva Rocha,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+543,2025-07-06,Carlos Silva Vitorio,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+544,2025-07-12,Lucas Ferreira Santos,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+545,2025-02-27,João Pedro Machado,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+546,2025-08-22,Juliana Mendes Vitorio,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+547,2026-01-13,Ricardo Almeida Cavalcante,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+548,2025-05-06,Beatriz Souza Barbosa,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+549,2025-05-17,Mariana Costa Mendes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+550,2026-03-09,Mariana Costa Santos,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+551,2025-01-30,Lucas Ferreira Mendes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+552,2025-12-22,Mariana Costa Machado,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+553,2025-12-22,Fernanda Oliveira Cavalcante,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+554,2025-01-04,Ricardo Almeida Cavalcante,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+555,2025-07-14,Beatriz Souza Antunes,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+556,2025-09-25,Ana Paula Mendes,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+557,2025-11-16,Fernanda Oliveira Barbosa,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+558,2025-01-31,Roberto Rocha Martins,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+559,2025-05-06,Carlos Silva Vitorio,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+560,2025-02-21,Ricardo Almeida Barbosa,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+561,2025-06-10,João Pedro Barbosa,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+562,2025-07-01,Carlos Silva Lima,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+563,2025-12-21,Beatriz Souza Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+564,2025-03-15,Fernanda Oliveira Antunes,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+565,2025-12-08,Fernanda Oliveira Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+566,2026-02-16,Mariana Costa Vitorio,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+567,2026-01-29,Roberto Rocha Vitorio,Tênis Nike Air Max,1,549.9,549.9,Calçados
+568,2025-05-08,Beatriz Souza Antunes,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+569,2025-07-03,Ana Paula Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+570,2026-01-27,Roberto Rocha Lima,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+571,2025-09-28,João Pedro Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+572,2025-06-09,Ricardo Almeida Mendes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+573,2026-03-05,Lucas Ferreira Lima,Mouse Logitech MX Master,1,580.0,580.0,Informática
+574,2025-05-09,Juliana Mendes Vitorio,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+575,2025-09-01,Carlos Silva Antunes,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+576,2025-09-07,Lucas Ferreira Vitorio,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+577,2025-10-16,Juliana Mendes Santos,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+578,2025-12-04,Mariana Costa Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+579,2025-03-07,Roberto Rocha Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+580,2025-12-18,Juliana Mendes Barbosa,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+581,2025-05-14,Mariana Costa Vitorio,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+582,2026-03-25,Beatriz Souza Antunes,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+583,2026-01-07,Beatriz Souza Mendes,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+584,2025-11-22,João Pedro Machado,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+585,2025-06-29,Ricardo Almeida Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+586,2025-04-04,Ana Paula Mendes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+587,2025-07-24,Ricardo Almeida Lima,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+588,2025-09-27,Fernanda Oliveira Antunes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+589,2025-04-04,Ricardo Almeida Barbosa,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+590,2026-02-19,Beatriz Souza Vitorio,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+591,2025-02-14,Roberto Rocha Martins,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+592,2025-01-14,Fernanda Oliveira Machado,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+593,2025-04-17,João Pedro Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+594,2025-02-24,Ana Paula Mendes,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+595,2025-03-28,Roberto Rocha Martins,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+596,2025-11-02,Lucas Ferreira Lima,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+597,2025-11-24,Mariana Costa Mendes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+598,2025-02-14,Carlos Silva Martins,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+599,2025-01-16,João Pedro Lima,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+600,2025-10-03,Ricardo Almeida Mendes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+601,2025-03-12,Mariana Costa Martins,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+602,2025-12-21,Lucas Ferreira Cavalcante,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+603,2025-03-12,Juliana Mendes Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+604,2025-07-27,Mariana Costa Lima,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+605,2025-08-16,Beatriz Souza Martins,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+606,2026-01-01,Lucas Ferreira Barbosa,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+607,2026-01-15,Lucas Ferreira Machado,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+608,2025-04-21,Beatriz Souza Antunes,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+609,2026-01-17,Fernanda Oliveira Vitorio,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+610,2025-12-05,Beatriz Souza Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+611,2025-04-11,Mariana Costa Antunes,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+612,2026-02-10,Beatriz Souza Vitorio,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+613,2025-05-06,Ricardo Almeida Lima,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+614,2025-03-08,Fernanda Oliveira Cavalcante,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+615,2026-01-25,Beatriz Souza Barbosa,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+616,2026-03-13,Ricardo Almeida Cavalcante,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+617,2025-04-06,Roberto Rocha Martins,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+618,2025-08-30,Beatriz Souza Santos,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+619,2025-01-17,Roberto Rocha Rocha,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+620,2026-01-14,João Pedro Machado,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+621,2025-09-03,João Pedro Santos,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+622,2025-12-24,Beatriz Souza Martins,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+623,2025-08-22,Beatriz Souza Lima,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+624,2025-01-24,Beatriz Souza Vitorio,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+625,2025-08-15,Carlos Silva Martins,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+626,2025-03-18,Lucas Ferreira Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+627,2025-11-23,Ana Paula Santos,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+628,2026-03-08,Carlos Silva Lima,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+629,2026-03-12,Lucas Ferreira Martins,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+630,2025-11-15,Mariana Costa Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+631,2025-04-27,Beatriz Souza Antunes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+632,2025-01-17,João Pedro Martins,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+633,2025-08-24,Ricardo Almeida Mendes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+634,2025-10-31,Roberto Rocha Cavalcante,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+635,2025-08-02,Mariana Costa Vitorio,Tênis Nike Air Max,1,549.9,549.9,Calçados
+636,2025-12-11,Beatriz Souza Martins,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+637,2026-02-05,Mariana Costa Antunes,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+638,2025-07-04,Carlos Silva Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+639,2025-06-27,Ricardo Almeida Rocha,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+640,2025-10-30,Roberto Rocha Santos,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+641,2025-09-30,João Pedro Martins,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+642,2025-08-22,Beatriz Souza Mendes,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+643,2026-01-10,Carlos Silva Lima,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+644,2025-01-24,Mariana Costa Cavalcante,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+645,2025-06-04,Mariana Costa Cavalcante,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+646,2026-01-01,Juliana Mendes Mendes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+647,2026-01-10,Mariana Costa Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+648,2025-03-13,João Pedro Mendes,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+649,2025-01-23,Juliana Mendes Vitorio,Mouse Logitech MX Master,1,580.0,580.0,Informática
+650,2025-05-28,João Pedro Lima,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+651,2025-09-13,Beatriz Souza Machado,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+652,2025-06-22,Mariana Costa Vitorio,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+653,2025-11-30,Carlos Silva Antunes,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+654,2025-11-05,Beatriz Souza Mendes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+655,2026-01-06,Carlos Silva Martins,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+656,2026-03-13,Carlos Silva Mendes,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+657,2025-07-17,Lucas Ferreira Lima,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+658,2025-06-02,Carlos Silva Rocha,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+659,2025-01-05,Carlos Silva Martins,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+660,2025-11-30,Roberto Rocha Mendes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+661,2025-03-11,Lucas Ferreira Vitorio,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+662,2025-09-10,Carlos Silva Mendes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+663,2025-07-20,Beatriz Souza Rocha,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+664,2025-08-17,João Pedro Barbosa,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+665,2025-01-07,Mariana Costa Vitorio,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+666,2025-03-14,Mariana Costa Mendes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+667,2025-03-21,Roberto Rocha Barbosa,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+668,2025-09-17,Carlos Silva Barbosa,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+669,2025-01-13,Roberto Rocha Cavalcante,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+670,2026-02-02,João Pedro Rocha,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+671,2025-08-11,Roberto Rocha Martins,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+672,2025-08-24,Roberto Rocha Rocha,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+673,2025-10-14,Fernanda Oliveira Rocha,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+674,2025-05-15,Lucas Ferreira Santos,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+675,2025-02-03,Mariana Costa Barbosa,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+676,2025-12-08,João Pedro Vitorio,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+677,2025-10-22,João Pedro Cavalcante,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+678,2025-03-31,Mariana Costa Antunes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+679,2025-05-24,Beatriz Souza Mendes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+680,2025-01-22,Fernanda Oliveira Lima,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+681,2026-03-07,Roberto Rocha Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+682,2025-04-16,Carlos Silva Antunes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+683,2025-07-09,Mariana Costa Martins,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+684,2025-11-05,Beatriz Souza Antunes,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+685,2026-02-23,Mariana Costa Machado,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+686,2025-07-28,João Pedro Lima,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+687,2025-02-16,Fernanda Oliveira Cavalcante,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+688,2026-02-08,Lucas Ferreira Machado,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+689,2025-03-29,Juliana Mendes Antunes,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+690,2025-01-05,Ana Paula Mendes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+691,2025-10-11,Ana Paula Machado,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+692,2025-07-31,Mariana Costa Martins,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+693,2026-01-01,Roberto Rocha Mendes,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+694,2025-08-24,Roberto Rocha Vitorio,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+695,2025-06-20,João Pedro Cavalcante,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+696,2025-07-16,Ana Paula Lima,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+697,2026-02-20,Carlos Silva Santos,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+698,2025-05-27,Lucas Ferreira Martins,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+699,2026-01-16,Lucas Ferreira Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+700,2025-05-12,Lucas Ferreira Cavalcante,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+701,2026-02-02,Fernanda Oliveira Martins,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+702,2025-04-30,Ana Paula Martins,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+703,2026-03-05,Ricardo Almeida Antunes,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+704,2025-06-06,Mariana Costa Barbosa,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+705,2026-03-09,Lucas Ferreira Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+706,2025-07-09,Beatriz Souza Machado,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+707,2026-01-17,Juliana Mendes Santos,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+708,2025-12-19,Juliana Mendes Martins,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+709,2026-01-08,Lucas Ferreira Santos,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+710,2025-03-25,Ana Paula Antunes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+711,2025-09-19,Ricardo Almeida Barbosa,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+712,2025-07-15,Beatriz Souza Antunes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+713,2025-07-15,Ricardo Almeida Rocha,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+714,2025-07-04,Beatriz Souza Antunes,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+715,2025-10-14,Juliana Mendes Mendes,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+716,2025-12-01,Beatriz Souza Rocha,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+717,2025-06-21,Fernanda Oliveira Cavalcante,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+718,2026-03-11,Roberto Rocha Rocha,Mouse Logitech MX Master,1,580.0,580.0,Informática
+719,2025-04-12,João Pedro Vitorio,Tênis Nike Air Max,1,549.9,549.9,Calçados
+720,2025-07-31,Roberto Rocha Barbosa,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+721,2025-10-17,Lucas Ferreira Martins,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+722,2025-10-01,Fernanda Oliveira Santos,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+723,2025-03-05,Beatriz Souza Rocha,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+724,2025-07-05,Beatriz Souza Vitorio,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+725,2025-10-15,Roberto Rocha Machado,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+726,2025-09-13,Mariana Costa Lima,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+727,2025-08-15,Ricardo Almeida Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+728,2025-10-17,Roberto Rocha Mendes,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+729,2025-01-06,Roberto Rocha Mendes,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+730,2025-04-08,Juliana Mendes Antunes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+731,2025-09-14,Ricardo Almeida Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+732,2025-06-22,Lucas Ferreira Cavalcante,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+733,2025-07-20,João Pedro Barbosa,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+734,2025-07-02,Beatriz Souza Santos,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+735,2025-06-30,Carlos Silva Barbosa,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+736,2025-08-22,Carlos Silva Cavalcante,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+737,2025-07-08,Carlos Silva Rocha,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+738,2025-04-28,João Pedro Martins,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+739,2025-04-01,Beatriz Souza Santos,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+740,2026-01-26,Beatriz Souza Lima,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+741,2025-09-06,Carlos Silva Vitorio,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+742,2025-06-14,Fernanda Oliveira Santos,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+743,2025-10-28,Mariana Costa Martins,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+744,2025-10-19,João Pedro Mendes,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+745,2025-07-24,Carlos Silva Mendes,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+746,2025-04-06,Lucas Ferreira Rocha,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+747,2025-02-04,João Pedro Martins,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+748,2025-07-25,Lucas Ferreira Antunes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+749,2025-04-03,Fernanda Oliveira Santos,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+750,2026-01-21,Ana Paula Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+751,2026-02-17,Lucas Ferreira Lima,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+752,2025-11-30,Juliana Mendes Martins,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+753,2025-08-12,Beatriz Souza Santos,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+754,2025-07-08,Ana Paula Lima,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+755,2025-03-01,Roberto Rocha Cavalcante,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+756,2025-07-14,Carlos Silva Lima,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+757,2025-02-12,Ana Paula Rocha,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+758,2026-02-01,Carlos Silva Cavalcante,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+759,2025-11-06,Mariana Costa Lima,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+760,2025-09-27,Ana Paula Rocha,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+761,2025-10-15,Carlos Silva Machado,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+762,2025-07-20,João Pedro Martins,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+763,2025-08-10,João Pedro Barbosa,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+764,2025-12-31,Carlos Silva Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+765,2025-04-05,Carlos Silva Rocha,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+766,2026-02-28,Mariana Costa Barbosa,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+767,2025-12-26,Ricardo Almeida Cavalcante,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+768,2025-02-16,João Pedro Machado,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+769,2025-02-26,Carlos Silva Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+770,2025-12-15,João Pedro Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+771,2026-02-12,Roberto Rocha Rocha,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+772,2025-02-16,Ricardo Almeida Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+773,2026-03-03,Mariana Costa Rocha,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+774,2025-01-05,João Pedro Machado,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+775,2025-08-26,Ricardo Almeida Mendes,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+776,2025-02-15,Beatriz Souza Mendes,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+777,2025-12-09,Lucas Ferreira Machado,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+778,2025-11-29,Lucas Ferreira Santos,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+779,2025-02-10,João Pedro Rocha,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+780,2025-01-27,Lucas Ferreira Santos,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+781,2025-05-17,Juliana Mendes Machado,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+782,2025-12-19,Beatriz Souza Rocha,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+783,2026-02-19,João Pedro Rocha,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+784,2025-09-24,João Pedro Martins,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+785,2025-12-20,João Pedro Cavalcante,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+786,2026-01-29,Roberto Rocha Antunes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+787,2025-05-11,Roberto Rocha Mendes,Tênis Nike Air Max,1,549.9,549.9,Calçados
+788,2025-03-15,Carlos Silva Cavalcante,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+789,2025-05-14,Fernanda Oliveira Martins,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+790,2025-05-12,Ricardo Almeida Vitorio,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+791,2025-02-18,Lucas Ferreira Mendes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+792,2025-04-07,Ana Paula Martins,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+793,2026-03-27,Lucas Ferreira Machado,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+794,2025-03-14,Carlos Silva Barbosa,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+795,2025-10-03,Ana Paula Mendes,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+796,2026-03-02,Carlos Silva Lima,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+797,2025-07-16,Juliana Mendes Martins,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+798,2026-03-09,Ricardo Almeida Mendes,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+799,2025-11-28,Carlos Silva Machado,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+800,2025-09-26,Ricardo Almeida Cavalcante,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+801,2026-02-06,Carlos Silva Barbosa,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+802,2026-03-05,Ana Paula Rocha,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+803,2026-01-31,Roberto Rocha Antunes,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+804,2025-05-27,Mariana Costa Barbosa,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+805,2025-02-07,Ricardo Almeida Machado,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+806,2025-03-01,Ana Paula Antunes,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+807,2025-05-04,Roberto Rocha Lima,Console PlayStation 5,3,3799.0,11397.0,Eletrônicos
+808,2025-06-23,Fernanda Oliveira Machado,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+809,2026-03-23,Juliana Mendes Martins,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+810,2026-01-02,Carlos Silva Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+811,2025-09-06,Ana Paula Vitorio,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+812,2025-09-04,Beatriz Souza Barbosa,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+813,2025-09-27,Mariana Costa Cavalcante,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+814,2025-07-08,Ana Paula Vitorio,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+815,2025-03-17,Mariana Costa Vitorio,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+816,2025-11-22,Fernanda Oliveira Machado,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+817,2025-06-10,Fernanda Oliveira Antunes,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+818,2025-05-19,Ricardo Almeida Martins,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+819,2025-05-25,Ana Paula Barbosa,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+820,2026-03-08,Ricardo Almeida Machado,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+821,2025-02-13,Juliana Mendes Lima,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+822,2025-11-16,Lucas Ferreira Martins,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+823,2025-06-14,Ana Paula Mendes,Mouse Logitech MX Master,1,580.0,580.0,Informática
+824,2025-12-07,Ricardo Almeida Vitorio,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+825,2025-10-16,Fernanda Oliveira Antunes,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+826,2025-08-01,Ricardo Almeida Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+827,2025-01-16,Roberto Rocha Cavalcante,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+828,2025-08-07,Juliana Mendes Mendes,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+829,2025-01-23,Fernanda Oliveira Mendes,Camisa Polo Lacoste,1,450.0,450.0,Vestuário
+830,2025-04-24,Juliana Mendes Rocha,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+831,2025-06-09,Mariana Costa Machado,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+832,2025-10-26,Mariana Costa Barbosa,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+833,2026-02-15,Ricardo Almeida Santos,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+834,2025-08-08,Ana Paula Barbosa,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+835,2025-01-29,Beatriz Souza Barbosa,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+836,2025-11-11,Beatriz Souza Cavalcante,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+837,2025-03-19,Carlos Silva Lima,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+838,2025-07-24,Mariana Costa Rocha,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+839,2026-03-17,Ricardo Almeida Santos,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+840,2025-11-04,Ricardo Almeida Martins,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+841,2025-11-04,Ricardo Almeida Martins,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+842,2026-03-07,Carlos Silva Rocha,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+843,2025-09-10,Juliana Mendes Machado,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+844,2026-01-15,Ana Paula Lima,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+845,2025-01-04,Fernanda Oliveira Cavalcante,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+846,2025-12-31,Ricardo Almeida Mendes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+847,2026-03-08,Lucas Ferreira Santos,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+848,2025-06-15,João Pedro Rocha,Mouse Logitech MX Master,1,580.0,580.0,Informática
+849,2026-01-20,Lucas Ferreira Santos,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+850,2025-12-09,Ricardo Almeida Vitorio,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+851,2025-08-19,Carlos Silva Machado,Smart TV LG 55 4K,2,2600.0,5200.0,Eletrônicos
+852,2025-02-07,Ana Paula Antunes,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+853,2025-02-15,Fernanda Oliveira Mendes,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+854,2025-10-24,Carlos Silva Vitorio,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+855,2026-03-24,Carlos Silva Martins,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+856,2026-01-10,Mariana Costa Antunes,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+857,2025-03-05,Beatriz Souza Cavalcante,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+858,2025-12-31,Mariana Costa Lima,Mouse Logitech MX Master,1,580.0,580.0,Informática
+859,2026-02-08,João Pedro Cavalcante,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+860,2025-09-12,Ana Paula Cavalcante,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+861,2026-01-23,Juliana Mendes Antunes,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+862,2025-04-20,Lucas Ferreira Cavalcante,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+863,2025-02-28,Beatriz Souza Barbosa,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+864,2025-12-21,Fernanda Oliveira Rocha,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+865,2025-10-23,João Pedro Rocha,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+866,2026-02-14,Mariana Costa Santos,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+867,2025-09-11,Juliana Mendes Vitorio,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+868,2025-06-13,Roberto Rocha Cavalcante,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+869,2025-10-28,Ricardo Almeida Rocha,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+870,2025-06-03,Ricardo Almeida Vitorio,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+871,2025-05-08,Roberto Rocha Barbosa,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+872,2025-02-12,Roberto Rocha Lima,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+873,2025-01-04,Carlos Silva Rocha,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+874,2025-09-29,Ricardo Almeida Santos,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+875,2025-01-12,Fernanda Oliveira Cavalcante,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+876,2026-02-10,Ricardo Almeida Machado,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+877,2025-12-05,Carlos Silva Cavalcante,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+878,2025-01-21,Ricardo Almeida Lima,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+879,2025-09-23,Lucas Ferreira Vitorio,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+880,2025-05-27,Beatriz Souza Martins,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+881,2025-06-12,Mariana Costa Lima,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+882,2025-02-18,Ana Paula Vitorio,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+883,2025-11-26,Mariana Costa Lima,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+884,2025-02-28,Ricardo Almeida Martins,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+885,2025-03-17,João Pedro Martins,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+886,2025-05-07,Fernanda Oliveira Cavalcante,Camisa Polo Lacoste,2,450.0,900.0,Vestuário
+887,2025-02-22,Ricardo Almeida Martins,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+888,2025-05-25,Ricardo Almeida Machado,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+889,2026-01-06,Carlos Silva Santos,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+890,2025-10-17,Carlos Silva Cavalcante,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+891,2025-08-04,João Pedro Cavalcante,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+892,2025-11-27,Juliana Mendes Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+893,2025-11-14,João Pedro Rocha,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+894,2025-09-28,Fernanda Oliveira Machado,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+895,2025-12-03,Ana Paula Vitorio,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+896,2025-02-10,Ana Paula Lima,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+897,2025-07-24,Beatriz Souza Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+898,2025-12-18,Beatriz Souza Machado,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+899,2025-12-17,Beatriz Souza Lima,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+900,2025-11-22,Fernanda Oliveira Lima,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+901,2025-04-07,João Pedro Rocha,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+902,2025-03-29,Fernanda Oliveira Rocha,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+903,2025-11-30,Lucas Ferreira Rocha,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+904,2025-10-22,Ricardo Almeida Machado,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+905,2025-11-16,Juliana Mendes Vitorio,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+906,2025-01-20,Ricardo Almeida Vitorio,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+907,2025-09-15,Fernanda Oliveira Rocha,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+908,2026-02-02,Ricardo Almeida Barbosa,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+909,2025-04-12,Beatriz Souza Santos,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+910,2025-08-08,Ana Paula Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+911,2025-03-24,Juliana Mendes Antunes,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+912,2025-01-21,João Pedro Lima,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+913,2025-07-26,Ana Paula Barbosa,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+914,2025-12-15,Ana Paula Antunes,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+915,2025-05-19,João Pedro Cavalcante,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+916,2025-02-26,Mariana Costa Machado,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+917,2025-09-11,Juliana Mendes Martins,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+918,2025-03-09,Lucas Ferreira Santos,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+919,2025-11-04,João Pedro Cavalcante,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+920,2025-09-04,Carlos Silva Vitorio,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+921,2025-07-11,Beatriz Souza Santos,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+922,2025-06-14,Carlos Silva Barbosa,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+923,2025-09-09,Lucas Ferreira Santos,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+924,2026-01-07,Ana Paula Lima,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+925,2025-12-01,Roberto Rocha Martins,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+926,2025-08-29,Beatriz Souza Mendes,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+927,2025-12-23,João Pedro Cavalcante,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+928,2025-12-19,Lucas Ferreira Antunes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+929,2025-12-14,Fernanda Oliveira Cavalcante,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+930,2025-11-23,Carlos Silva Vitorio,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+931,2025-06-06,Ana Paula Rocha,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+932,2025-12-09,Mariana Costa Rocha,Monitor Gamer AOC 24,2,950.0,1900.0,Informática
+933,2025-10-22,Ana Paula Antunes,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+934,2025-02-06,Beatriz Souza Rocha,Mouse Logitech MX Master,1,580.0,580.0,Informática
+935,2025-10-08,Beatriz Souza Vitorio,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+936,2025-03-01,Beatriz Souza Barbosa,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+937,2025-11-27,Juliana Mendes Barbosa,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+938,2025-05-12,Lucas Ferreira Lima,Cafeteira Nespresso,1,499.0,499.0,Eletrodomésticos
+939,2025-12-13,Lucas Ferreira Barbosa,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+940,2025-10-31,João Pedro Cavalcante,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+941,2025-08-22,Lucas Ferreira Cavalcante,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+942,2025-11-18,Carlos Silva Martins,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+943,2025-02-21,Carlos Silva Santos,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+944,2025-01-19,Mariana Costa Mendes,Mouse Logitech MX Master,3,580.0,1740.0,Informática
+945,2026-03-11,Ricardo Almeida Rocha,Tênis Nike Air Max,1,549.9,549.9,Calçados
+946,2026-01-06,Roberto Rocha Antunes,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+947,2025-05-18,Beatriz Souza Martins,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+948,2025-02-08,Carlos Silva Barbosa,iPhone 15 Pro Max,3,8499.0,25497.0,Eletrônicos
+949,2025-03-13,Mariana Costa Cavalcante,Monitor Gamer AOC 24,1,950.0,950.0,Informática
+950,2025-03-03,Roberto Rocha Mendes,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+951,2025-05-27,Ricardo Almeida Cavalcante,Jogo de Panelas Tramontina,1,299.0,299.0,Cozinha
+952,2025-11-25,Lucas Ferreira Martins,Kindle Paperwhite 16GB,2,799.0,1598.0,Eletrônicos
+953,2025-10-31,Fernanda Oliveira Mendes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+954,2025-04-19,Ricardo Almeida Martins,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+955,2026-01-25,Fernanda Oliveira Barbosa,Mouse Logitech MX Master,1,580.0,580.0,Informática
+956,2025-07-15,Lucas Ferreira Antunes,Fritadeira Air Fryer Mondial,1,389.9,389.9,Eletrodomésticos
+957,2025-04-07,Fernanda Oliveira Martins,Smart TV LG 55 4K,1,2600.0,2600.0,Eletrônicos
+958,2025-07-13,João Pedro Lima,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+959,2026-02-03,Lucas Ferreira Martins,Micro-ondas Brastemp 32L,1,750.0,750.0,Eletrodomésticos
+960,2026-03-13,Lucas Ferreira Antunes,Mouse Logitech MX Master,2,580.0,1160.0,Informática
+961,2025-11-09,Roberto Rocha Cavalcante,Cafeteira Nespresso,2,499.0,998.0,Eletrodomésticos
+962,2025-12-02,Fernanda Oliveira Antunes,Kindle Paperwhite 16GB,1,799.0,799.0,Eletrônicos
+963,2025-06-03,Beatriz Souza Cavalcante,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+964,2025-01-22,Beatriz Souza Rocha,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+965,2025-04-27,Juliana Mendes Barbosa,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+966,2025-04-10,Juliana Mendes Barbosa,Camisa Polo Lacoste,3,450.0,1350.0,Vestuário
+967,2025-01-22,Juliana Mendes Mendes,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+968,2026-03-18,Fernanda Oliveira Lima,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+969,2025-03-07,Roberto Rocha Machado,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+970,2025-09-14,Juliana Mendes Machado,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+971,2025-10-04,Beatriz Souza Mendes,Toalha Buddemeyer,2,85.0,170.0,Cama Mesa e Banho
+972,2025-07-14,Ana Paula Lima,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+973,2025-02-06,Roberto Rocha Machado,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+974,2025-05-05,Ricardo Almeida Mendes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+975,2025-05-26,João Pedro Barbosa,Micro-ondas Brastemp 32L,2,750.0,1500.0,Eletrodomésticos
+976,2025-10-09,Mariana Costa Antunes,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+977,2025-05-26,Juliana Mendes Mendes,Jogo de Panelas Tramontina,2,299.0,598.0,Cozinha
+978,2025-07-16,Fernanda Oliveira Antunes,Toalha Buddemeyer,1,85.0,85.0,Cama Mesa e Banho
+979,2025-11-25,Lucas Ferreira Santos,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+980,2025-08-05,Juliana Mendes Santos,Console PlayStation 5,2,3799.0,7598.0,Eletrônicos
+981,2025-11-22,Fernanda Oliveira Rocha,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+982,2025-10-12,Carlos Silva Rocha,iPhone 15 Pro Max,2,8499.0,16998.0,Eletrônicos
+983,2025-02-14,João Pedro Machado,Notebook Dell Inspiron 15,2,3450.0,6900.0,Informática
+984,2025-02-17,Carlos Silva Lima,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+985,2025-09-29,Ricardo Almeida Antunes,Fritadeira Air Fryer Mondial,2,389.9,779.8,Eletrodomésticos
+986,2025-08-29,Juliana Mendes Antunes,Tênis Nike Air Max,3,549.9,1649.7,Calçados
+987,2025-06-26,Mariana Costa Machado,iPhone 15 Pro Max,1,8499.0,8499.0,Eletrônicos
+988,2025-03-04,João Pedro Santos,Jogo de Panelas Tramontina,3,299.0,897.0,Cozinha
+989,2025-05-03,Lucas Ferreira Machado,Toalha Buddemeyer,3,85.0,255.0,Cama Mesa e Banho
+990,2026-01-23,Ana Paula Rocha,Micro-ondas Brastemp 32L,3,750.0,2250.0,Eletrodomésticos
+991,2025-05-09,Lucas Ferreira Cavalcante,Notebook Dell Inspiron 15,3,3450.0,10350.0,Informática
+992,2026-02-03,Carlos Silva Antunes,Console PlayStation 5,1,3799.0,3799.0,Eletrônicos
+993,2026-02-05,Ana Paula Martins,Smart TV LG 55 4K,3,2600.0,7800.0,Eletrônicos
+994,2025-02-20,Roberto Rocha Cavalcante,Fritadeira Air Fryer Mondial,3,389.9,1169.7,Eletrodomésticos
+995,2025-02-17,Fernanda Oliveira Antunes,Monitor Gamer AOC 24,3,950.0,2850.0,Informática
+996,2025-10-10,Mariana Costa Mendes,Tênis Nike Air Max,2,549.9,1099.8,Calçados
+997,2026-02-09,Ricardo Almeida Vitorio,Kindle Paperwhite 16GB,3,799.0,2397.0,Eletrônicos
+998,2025-02-25,Ana Paula Cavalcante,Notebook Dell Inspiron 15,1,3450.0,3450.0,Informática
+999,2026-01-03,Ana Paula Lima,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
+1000,2025-01-25,Mariana Costa Santos,Cafeteira Nespresso,3,499.0,1497.0,Eletrodomésticos
