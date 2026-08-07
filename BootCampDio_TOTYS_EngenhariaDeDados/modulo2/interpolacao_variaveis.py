@@ -6,8 +6,8 @@
 
 # Old style - o uso da %
 # %s = valores em string, %d = valores inteiros, %f = valores float
-nome = "Rosicléia"
-idade = 47
+nome = "léia"
+idade = 37
 profissao = "Gestora Ambiental"
 linguagem = "Python"
 
@@ -28,8 +28,8 @@ print("Olá, eu me chamo {nome}. Tenho {idade} anos de idade, trabalho como {pro
 # Outra forma MAS com uso de um dicionário
 # Criando o dicionário com as informações
 pessoa = {
-    "nome": "Rosicléia",
-    "idade": 47,
+    "nome": "léia",
+    "idade": 37,
     "profissao": "Gestora Ambiental",
     "linguagem": "Python"
 }
