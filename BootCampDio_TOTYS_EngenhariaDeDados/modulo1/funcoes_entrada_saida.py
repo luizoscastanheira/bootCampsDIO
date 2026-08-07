@@ -10,8 +10,8 @@ nome = input("Qual é seu nome: ")
 print(nome, end="... ;-)")
 
 ## outros exemplos de print
-nome = "Rosicléia"
-sobrenome = "Castanheira"
+nome = "Rosa"
+sobrenome = "Gatinha"
 print(nome, sobrenome)
 print(nome, sobrenome, end="...\n ;-) \n")
 print(nome, sobrenome, sep="#")
