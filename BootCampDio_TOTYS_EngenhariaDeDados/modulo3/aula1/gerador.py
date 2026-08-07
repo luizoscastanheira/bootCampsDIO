@@ -7,20 +7,20 @@ nomes = ["Ricardo Almeida", "Beatriz Souza", "Carlos Silva", "Mariana Costa", "F
 sobrenomes = ["Santos", "Lima", "Mendes", "Rocha", "Antunes", "Barbosa", "Vitorio", "Martins", "Machado", "Cavalcante"]
 
 produtos_dados = [
-    ("iPhone 15 Pro Max", 8499.00, "Eletrônicos"),
-    ("Fritadeira Air Fryer Mondial", 389.90, "Eletrodomésticos"),
-    ("Camisa Polo Lacoste", 450.00, "Vestuário"),
-    ("Smart TV LG 55 4K", 2600.00, "Eletrônicos"),
-    ("Jogo de Panelas Tramontina", 299.00, "Cozinha"),
-    ("Notebook Dell Inspiron 15", 3450.00, "Informática"),
-    ("Tênis Nike Air Max", 549.90, "Calçados"),
-    ("Monitor Gamer AOC 24", 950.00, "Informática"),
-    ("Toalha Buddemeyer", 85.00, "Cama Mesa e Banho"),
-    ("Cafeteira Nespresso", 499.00, "Eletrodomésticos"),
-    ("Console PlayStation 5", 3799.00, "Eletrônicos"),
-    ("Mouse Logitech MX Master", 580.00, "Informática"),
-    ("Micro-ondas Brastemp 32L", 750.00, "Eletrodomésticos"),
-    ("Kindle Paperwhite 16GB", 799.00, "Eletrônicos")
+    ("Phone 15 Pro", 8499.00, "Eletrônicos"),
+    ("Fritadeira", 389.90, "Eletrodomésticos"),
+    ("Camisa Polo", 450.00, "Vestuário"),
+    ("Smart TV", 2600.00, "Eletrônicos"),
+    ("Jogo de Panelas", 299.00, "Cozinha"),
+    ("Notebook", 3450.00, "Informática"),
+    ("Têni", 549.90, "Calçados"),
+    ("Monitor", 950.00, "Informática"),
+    ("Toalha", 85.00, "Cama Mesa e Banho"),
+    ("Cafeteira", 499.00, "Eletrodomésticos"),
+    ("Console", 3799.00, "Eletrônicos"),
+    ("Mouse", 580.00, "Informática"),
+    ("Micro", 750.00, "Eletrodomésticos"),
+    ("Bloco de notas eletrico", 799.00, "Eletrônicos")
 ]
 
 data_inicio = datetime(2025, 1, 1)
