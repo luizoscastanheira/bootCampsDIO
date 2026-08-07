@@ -6,7 +6,7 @@
 # AtENÇÃO: dicionários podem conter outros dicionários
 
 # Criando um dicionário simples
-pessoa = {"nome":"Rosicléia", "idade":"47", "estado_civil":"casada"}
+pessoa = {"nome":"Gatinha", "idade":"47", "estado_civil":"casada"}
 print(pessoa)
 
 print()
@@ -16,7 +16,7 @@ print(pessoa["idade"])
 
 print()
 
-pessoa["nome"] = "Rosi"
+pessoa["nome"] = "Gata"
 print(pessoa)
 
 
@@ -32,7 +32,7 @@ for chave, valor in pessoa.items():
 
 print()
 # Criando um dicionário de forma simples mas com uso de construtor
-outra_pessoa = dict(nome="Guilherme", idade="47", estado_civil="solteiro")
+outra_pessoa = dict(nome="Garoto", idade="27", estado_civil="solteiro")
 print(outra_pessoa)
 
 # iterando de forma simples
@@ -47,7 +47,7 @@ print()
 ## Um dicionário um pouco mais complexo 
 #  AtENÇÃO: dicionários podem conter outros dicionários
 contatos = {
-    "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
+    "guilherme@gmail.com": {"nome": "Garoto", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
     "chappie@gmail.com": {"nome": "Chappie", "telefone": "3344-9871"},
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
@@ -85,7 +85,7 @@ print(contatos is nova_base)
 # 1 - voce quer criar as chaves MAS não quer ainda inserir valor, como valor entra o none automáticamente
 # dict.fromkeys(["nome", "telefone"]) # vira {"nome":"none", "telefone":"none"}
 #
-# 2 - você quer criar as chaver e colocar um valor padrão nelas
+# 2 - você quer criar as chaves e colocar um valor padrão nelas
 # dict.fromkeys(["nome", "telefone"], "vazio") # vira {"nome":"vazio", "telefone":"vazio"}
 
 dicionario1 = dict.fromkeys(["nome", "telefone"])
@@ -100,13 +100,13 @@ print(dicionario2)
 # se não tenho certeza de que uma chave existe no dicionário eu uso o get
 # primeira forma
 print(contatos.get("chave")) # o retorno é None se a chave não existe
-print(contatos.get("guilherme@gmail.com")) # se a chave existe é retornado o valor
+print(contatos.get("garoto@themail.com")) # se a chave existe é retornado o valor
 
 # segunda forma - posso passar um segundo argumneto que seria um valor default caso a chave 
 # não seja encontrada
 print(contatos.get("chave", "A chave solicitada não existe.")) # retorna uma mensagem se chave não existe
 print(contatos.get("chave", {})) # retorna um dicionário vazio se chave não existe
-print(contatos.get("guilherme@gmail.com", {}))
+print(contatos.get("garoto@thegmail.com", {}))
 
 # {}.items() - retorna uma lsita de tuplas a partir do dicionário, util para iterar com o for
 for chave, valor in contatos.items():
@@ -129,14 +129,14 @@ for chave in contatos.keys():
 
 print()
 # {}.pop() - remove uma chave do dicionário
-resultado = contatos.pop("guilherme@gmail.com")
+resultado = contatos.pop("garoto@thegmail.com")
 print(resultado)
 print(contatos)
 
 print()
-#resultado = contatos.pop("guilherme@gmail.com") # se tentar remover um chave que não existe dá erro
+#resultado = contatos.pop("garoto@thegmail.com") # se tentar remover um chave que não existe dá erro
 #print(resultado)
-resultado = contatos.pop("guilherme@gmail.com", "Chave não encontrada")
+resultado = contatos.pop("garoto@thegmail.com", "Chave não encontrada")
 print(resultado)
 
 print()
@@ -149,13 +149,13 @@ print(contatos)
 
 # Mais exemplos
 contatos = {
-    "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
+    "garoto@thegmail.com": {"nome": "Garoto", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
     "chappie@gmail.com": {"nome": "Chappie", "telefone": "3344-9871"},
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
-pessoa = {"nome":"Rosicléia", "idade":"47", "estado_civil":"casada"}
+pessoa = {"nome":"Gatinha", "idade":"47", "estado_civil":"casada"}
 
 # {}.setdefault() permite adioncar um valor caso ele não exista
 print(pessoa)
@@ -173,9 +173,9 @@ print(pessoa)
 
 print()
 
-contatos.update({"guilherme@gmail.com":{"nome":"Gui"}})
+contatos.update({"garoto@thegmail.com":{"nome":"GuiGUGI"}})
 print(contatos)
-contatos.update({"thelosc@gmail.com":{"nome":"Luiz Otavio", "telefone":"456-987"}})
+contatos.update({"thec@thegmail.com":{"nome":"lululu", "telefone":"456-987"}})
 print(contatos)
 
 print()
@@ -194,11 +194,11 @@ else:
 
 print()
 # método in - uma forma mais elegante de saber se uma chave existe ou não no dicionário
-print("thelosc@uol.com" in contatos) # se não existe retorna False
-print("guilherme@gmail.com" in contatos) # se existe retorna True
+print("the@uol.com" in contatos) # se não existe retorna False
+print("garoto@themail.com" in contatos) # se existe retorna True
 # verificando se uma chave existe no dicionário interno
-print("nome" in contatos["guilherme@gmail.com"])
-print("telefone" in contatos["guilherme@gmail.com"])
+print("nome" in contatos["garoto@themail.com"])
+print("telefone" in contatos["garoto@themail.com"])
 
 print()
 # del - recebe um objeto e o remove do dicionário
