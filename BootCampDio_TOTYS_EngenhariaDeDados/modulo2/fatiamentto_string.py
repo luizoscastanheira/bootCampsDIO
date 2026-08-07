@@ -2,7 +2,7 @@
 # informando inicio(start), fim(stop) e passo (step)
 # [start:stop[,step]]
 
-nome = "Rosicléia Moraes Silva Castanheira"
+nome = "truta trua da selva do rio"
 
 print(nome[0]) # apenas o índice 0
 
