@@ -1,7 +1,7 @@
 # Hello
 print("Heloo World!")
-print("Olá Rosi!")
+print("Olá Gatinha!")
 
-esposa = "Rosi"
+esposa = "Gata"
 
 print(f"A minha esposa é a {esposa}")
