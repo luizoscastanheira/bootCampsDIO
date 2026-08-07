@@ -2,7 +2,7 @@
 # São definidas inforamdno 3 aspas simples ou duplas DURANTE a ATRIBUIÇÃO
 # Elas podem ocupar várias linhas de código e todos os espaços em branco são incluídos n string final
 
-nome = "Guilherme"
+nome = "Gogalin"
 
 mensagem = f"""
     Olá, meu nome é {nome},
